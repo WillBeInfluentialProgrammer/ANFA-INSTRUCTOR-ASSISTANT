@@ -1,4 +1,5 @@
 **ANFA  INSTRUCTOR'S ASSISTANT**
+
 ANFA Instructor Assistant is an AI-powered teaching aid designed for legal and regulatory trainers.
 Built with Streamlit, LangChain, and Groq’s LLaMA 3.1, it leverages your own PDF documents to generate accurate, context-grounded content—including Q&A, descriptive questions, scenario-based assignments, and on-demand MCQ exams (printable or LMS-ready).
 Using RAG architecture with Chroma vectorstore and HuggingFace embeddings, it ensures all responses are strictly derived from your source materials—no hallucinations.
