@@ -1,4 +1,4 @@
-![image alt] (https://github.com/WillBeInfluentialProgrammer/ANFA-INSTRUCTOR-ASSISTANT/blob/35a8a4b59fd2903551818e96a63eb087cbd7bcba/Instructor_UI.png)
+(https://github.com/WillBeInfluentialProgrammer/ANFA-INSTRUCTOR-ASSISTANT/blob/35a8a4b59fd2903551818e96a63eb087cbd7bcba/Instructor_UI.png)
 
 **ANFA  INSTRUCTOR'S ASSISTANT**
 
